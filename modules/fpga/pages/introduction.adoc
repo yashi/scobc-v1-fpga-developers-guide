@@ -38,7 +38,7 @@ The following tools are required to develop the FPGA and update the safety proce
 [cols=",,",options="header",]
 |===
 | Tools                  | Version         | URL
-| Vivado                 | 2025.1 or later | link:https://www.xilinx.com/support/download.html[Vivado Edition 2025.1]
+| Vivado                 | 2025.1 or later | link:https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html[Vivado (HW Developer)]
 | FPExpress (Libero SoC) | 2025.1 or later | link:https://www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/fpga/libero-software-later-versions[Libero SoC Design Suite Versions 2025.1 to 12.0]
 |===
 
