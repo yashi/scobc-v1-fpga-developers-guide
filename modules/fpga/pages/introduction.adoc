@@ -15,7 +15,7 @@ This document applies to the following product version:
 |===
 
 [CAUTION]
-===
+====
 This document assumes that the reader has basic knowledge of FPGA development. Therefore, the following topics are not covered:
 
 * Basic technical information on AMD FPGA device specifications or development tools
@@ -23,7 +23,7 @@ This document assumes that the reader has basic knowledge of FPGA development. T
 * Information related to the AMBA (Advanced Microcontroller Bus Architecture) specifications
 
 For details on these topics, refer to the documents listed in the *References* section.
-===
+====
 
 == Required Development Tools
 
@@ -42,4 +42,3 @@ The following tools are required to develop the FPGA and update the safety proce
 |===
 
 In addition, the development environment is expected to include general development tools such as GNU make and git.
-
