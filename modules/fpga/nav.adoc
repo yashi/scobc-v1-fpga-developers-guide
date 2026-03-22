@@ -1,6 +1,7 @@
 .FPGA
 * xref:introduction.adoc[]
 * xref:getting_started.adoc[]
+* xref:board_config.adoc[]
 * xref:main_processor_development.adoc[]
 * xref:design-flow.adoc[]
 * xref:ps-dev.adoc[]
