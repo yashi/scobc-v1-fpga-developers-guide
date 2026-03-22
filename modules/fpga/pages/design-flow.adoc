@@ -28,10 +28,10 @@ After completing the design in Vivado, close the application and run the `build_
 This will export the `.pdi` and `.xsa` files generated from your design.
 
 [CAUTION]
-===
+====
 When using this flow, running `make clean` will remove the generated design files.
 If you perform design work in the GUI, it is strongly recommended to migrate your changes into scripts.
-===
+====
 
 == CLI Design Flow
 
